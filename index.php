@@ -20,7 +20,7 @@
 						<li><img src="images/icon/chat.png"><a href="#">匿名聊天</a></li>
 						<li><img src="images/icon/yuanfen.png"><a href="#">查看对方喜欢谁</a></li>
 						<li><img src="images/icon/ip1.png"><a href="#">ip定位</a></li>
-						<li><img src="images/icon/book.png"><a href="#">一奇博客</a></li>
+						<li><img src="images/icon/book.png"><a href="#">博客</a></li>
 						<li  onClick="iFrame('jieshao.php')"><img src="images/icon/touxiang.png"><a href="#">个人介绍</a></li>
 					</ul>
 				</div>
@@ -31,7 +31,7 @@
 			</div>
 		</div>
 		<div class="head">
-			<h1>一奇网站导航</h1>
+			<h1>网站导航</h1>
 			<div class="openclose" id="openclose">
 				<img id="xiangleftright" src="images/icon/candan.png">
 			</div>
